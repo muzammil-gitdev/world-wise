@@ -1,12 +1,12 @@
 import PageNav from "../components/PageNav";
 
-function Pricing() {
+function PageNotFound() {
   return (
     <div>
       <PageNav />
-      World Wise Pricing
+      <div>Not Found:(</div>
     </div>
   );
 }
 
-export default Pricing;
+export default PageNotFound;
